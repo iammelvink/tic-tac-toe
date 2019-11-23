@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="counter">Counter</string>
+    <string name="red_wins">Red Wins:</string>
+    <string name="yellow_wins">Yellow Wins:</string>
+    <string name="go_again">Go Again</string>
+    <string name="reset_score">Reset Score</string>
+</resources>
