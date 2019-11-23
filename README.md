@@ -9,7 +9,7 @@ Find out how to build a simple TicTacToe game. Author, Melvin Kisten tackles ani
 ## Instructions
 1. Make sure you have these installed
 	- [Android Studio](https://developer.android.com/studio#downloads)
-2. Clone this repository into your local machine using the terminal (mac) or Gitbash (PC) 
+2. Clone this repository into your local machine using the terminal (mac) or [Gitbash (PC)](https://git-scm.com/download/win)
 	
 	`> git clone https://github.com/iammelvink/tictactoe.git`
 3. Run Android Studio and choose Open an existing Android Sudio project
